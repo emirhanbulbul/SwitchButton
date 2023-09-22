@@ -2,4 +2,5 @@
 
 # Android Custom Switch Button
 Android custom switch button flat style.
-[Screen_recording_20230922_220953.webm](https://github.com/emirhanbulbul/SwitchButton/assets/14194362/114ac465-d5c8-42b3-8048-c0bfe76ea58b)
+
+![ezgif-4-b92eb4df58](https://github.com/emirhanbulbul/SwitchButton/assets/14194362/8bba0291-c613-4f16-9685-2f04519d6d21)
